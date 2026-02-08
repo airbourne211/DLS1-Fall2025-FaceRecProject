@@ -14,7 +14,8 @@ DLS1 Fall 2025 Graduate Project (Face Recognition)
     -   [Модель предсказания ключевых точек для выравнивания лица (Face Alignment)](#модель-предсказания-ключевых-точек-для-выравнивания-лица-face-alignment)
     -   [Модель распознавания лиц (Face Recognition)](#модель-распознавания-лиц-face-recognition)
 3.  [Веб-интерфейс](#веб-интерфейс)
-4.  [Результаты](#результаты)
+4.  [Предобученные модели](#предобученные-модели)
+5.  [Результаты](#результаты)
 
 ---
 
@@ -70,7 +71,7 @@ DLS1 Fall 2025 Graduate Project (Face Recognition)
 
 ---
 
-## Предобученные модели (веса)
+## Предобученные модели
 *   **1. Модель предсказания ключевых точек (Landmark Detection -> Face Alignment)**: [`lm_detection_model.pth`](https://drive.google.com/file/d/1RQyIhEkl8oe67E98Zk3i0gymUbZb3Voi/view?usp=drive_link)
 *   **2.1. Модель вычисления эмбеддинга лица (Face Recognition, бэйзлайн-реализация)**: [`ce_loss_baseline_model (best_model.pth).pth`](https://drive.google.com/file/d/1JS-qiBff163-0wTMQJ08hkGtQnWxzWgb/view?usp=drive_link)
 *   **2.2. Модель вычисления эмбеддинга лица (Face Recognition, реализация с ArcFace)**: [`face_embedding_model.pth`](https://drive.google.com/file/d/1L03l0xK10sHChe42NKfMkLG4dgn7Qx7X/view?usp=drive_link)
