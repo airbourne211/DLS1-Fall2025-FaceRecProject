@@ -68,6 +68,8 @@ DLS1 Fall 2025 Graduate Project (Face Recognition)
 
 На данном этапе веб-интерфейс отсутствует. Решение совместимо с векторными базами данных вида FAISS, Qdrant, LanceDB и др.
 
+---
+
 ## Предобученные модели (веса)
 *   **1. Модель предсказания ключевых точек (Landmark Detection -> Face Alignment)**: [`lm_detection_model.pth`](https://drive.google.com/file/d/1RQyIhEkl8oe67E98Zk3i0gymUbZb3Voi/view?usp=drive_link)
 *   **2.1. Модель вычисления эмбеддинга лица (Face Recognition, бэйзлайн-реализация)**: [`ce_loss_baseline_model (best_model.pth).pth`](https://drive.google.com/file/d/1JS-qiBff163-0wTMQJ08hkGtQnWxzWgb/view?usp=drive_link)
